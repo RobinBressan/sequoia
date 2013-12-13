@@ -1,6 +1,7 @@
 {
     "name": "robinbressan/sequoia",
     "description": "Provide tools to manage tree data structure",
+    "keywords": ["tree"],
     "license": "MIT",
     "authors": [
         {
