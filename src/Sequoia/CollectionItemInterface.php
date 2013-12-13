@@ -4,5 +4,5 @@ namespace Sequoia;
 
 interface CollectionItemInterface
 {
-	public function getLocalName();
+    public function getLocalName();
 }

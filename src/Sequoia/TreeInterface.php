@@ -4,5 +4,5 @@ namespace Sequoia;
 
 interface TreeInterface
 {
-	public function getRootNode();
+    public function getRootNode();
 }

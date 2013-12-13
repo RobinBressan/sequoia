@@ -4,5 +4,5 @@ namespace Sequoia;
 
 interface FinderInterface
 {
-	public function find($relativePath);
+    public function find($relativePath);
 }
